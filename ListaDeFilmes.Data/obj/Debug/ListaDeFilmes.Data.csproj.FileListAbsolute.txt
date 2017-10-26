@@ -1,0 +1,12 @@
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Data\bin\Debug\ListaDeFilmes.Data.dll.config
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Data\bin\Debug\ListaDeFilmes.Data.dll
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Data\bin\Debug\ListaDeFilmes.Data.pdb
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Data\bin\Debug\EntityFramework.dll
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Data\bin\Debug\ListaDeFilmes.Domain.dll
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Data\bin\Debug\ListaDeFilmes.Domain.pdb
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Data\bin\Debug\EntityFramework.xml
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Data\obj\Debug\ListaDeFilmes.Data.csprojResolveAssemblyReference.cache
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Data\obj\Debug\ListaDeFilmes.Data.dll
+C:\dev\JLP\ListaDeFilmes\JLP.ListaDeFilmes\ListaDeFilmes.Data\obj\Debug\ListaDeFilmes.Data.pdb
