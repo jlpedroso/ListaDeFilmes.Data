@@ -1,4 +1,5 @@
-﻿using ListaDeFilmes.Domain.Entities;
+﻿using ListaDeFilmes.Data.EF.Maps;
+using ListaDeFilmes.Domain.Entities;
 using System.Data.Entity;
 
 namespace ListaDeFilmes.Data.EF
@@ -16,7 +17,7 @@ namespace ListaDeFilmes.Data.EF
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-//            modelBuilder.Configurations.Add(new DiretorMap());
+            modelBuilder.Configurations.Add(new DiretorMap());
         }
 
     }
